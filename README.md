@@ -2,7 +2,7 @@
 
 <img width="1155" height="635" alt="image" src="https://github.com/user-attachments/assets/488f3c76-eb22-456d-b658-bfdbc6332884" />
 
-📊 Walmart Store Sales Prediction – EDA Dashboard
+📊 ### Walmart Store Sales Prediction – EDA Dashboard
 
 This project focuses on post-launch product performance analysis using Walmart’s historical store sales dataset. The goal was to simulate evaluation of product health, user behavior, and business impact after launch.
 
@@ -10,18 +10,18 @@ This project focuses on post-launch product performance analysis using Walmart�
 
 After a certain time period:
 
-Are we driving consistent growth?
-What external factors influence performance?
-Where are the inefficiencies or risks?
+* Are we driving consistent growth?
+* What external factors influence performance?
+* Where are the inefficiencies or risks?
 
 This dashboard is built to translate raw sales data into actionable product insights, enabling better decision-making.
 
 📈 Key Metrics Tracked
-Total Sales (6.7B+) → Overall business impact
-Average Weekly Sales → Short-term performance stability
-Monthly Trends → Seasonality & growth patterns
-Store Count → Distribution scale
-Fuel Price Impact → External dependency signal
+* Total Sales (6.7B+) → Overall business impact
+* Average Weekly Sales → Short-term performance stability
+* Monthly Trends → Seasonality & growth patterns
+* Store Count → Distribution scale
+* Fuel Price Impact → External dependency signal
 
 These act as North Star + supporting metrics, similar to how PMs track KPIs post-launch.
 
